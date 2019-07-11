@@ -1,24 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <kml xmlns="http://www.opengis.net/kml/2.2">
- <Document>
- <name>Paths</name>
- <description>Example</description>
-<Style id="track-1">
- <LineStyle>
- <color>ff135beb</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ff135beb</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>1</name>
- <description>0 - 1000</description>
- <styleUrl>#track-1</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,48.76204,944
+  <Document>
+    <name>Paths</name>
+    <description>Example</description>
+    <Style id="track-1">
+      <LineStyle>
+        <color>ff135beb</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ff135beb</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>1</name>
+      <description>0 - 1000</description>
+      <styleUrl>#track-1</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,48.76204,944
 15.06557,48.76258,852
 15.06674,48.75878,852
 15.06888,48.76951,913
@@ -378,24 +379,26 @@
 15.06014,48.76143,974
 15.06137,48.76381,974
 15.06291,48.75889,913
-</coordinates>
- </LineString>
- </Placemark><Style id="track-2">
- <LineStyle>
- <color>ff1383eb</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ff1383eb</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>2</name>
- <description>1000 - 2000</description>
- <styleUrl>#track-2</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,48.86184,1469
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-2">
+      <LineStyle>
+        <color>ff1383eb</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ff1383eb</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>2</name>
+      <description>1000 - 2000</description>
+      <styleUrl>#track-2</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,48.86184,1469
 15.06822,48.86245,1584
 15.07223,48.86211,1698
 15.07628,48.86235,1705
@@ -533,13 +536,13 @@
 15.79709,48.21988,1644
 15.78481,48.21099,1644
 15.52551,48.38103,1492
-15.55318,48.34856,1195
-15.54595,48.34114,1248
+15.60105,48.31273,1340
+15.59041,48.30668,1340
 15.65785,48.23777,1500
 15.73817,48.15328,1644
 15.72681,48.14268,1644
 15.51974,48.30753,1325
-15.51309,48.29862,1317
+15.53341,48.27977,1340
 15.65932,48.14182,1660
 15.66107,48.11820,1789
 15.66046,48.09573,1804
@@ -755,24 +758,26 @@
 15.05239,48.85858,1705
 15.05957,48.79768,1584
 15.06021,48.86038,1675
-</coordinates>
- </LineString>
- </Placemark><Style id="track-3">
- <LineStyle>
- <color>ff13b4eb</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ff13b4eb</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>3</name>
- <description>2000 - 3000</description>
- <styleUrl>#track-3</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,48.96478,2467
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-3">
+      <LineStyle>
+        <color>ff13b4eb</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ff13b4eb</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>3</name>
+      <description>2000 - 3000</description>
+      <styleUrl>#track-3</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,48.96478,2467
 15.06780,48.84671,2985
 15.07118,48.84234,2893
 15.07472,48.84278,2802
@@ -1132,24 +1137,26 @@
 15.05363,48.84314,2802
 15.05613,48.86238,2680
 15.06009,48.86478,2711
-</coordinates>
- </LineString>
- </Placemark><Style id="track-4">
- <LineStyle>
- <color>ff13ebc0</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ff13ebc0</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>4</name>
- <description>3000 - 4000</description>
- <styleUrl>#track-4</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,48.83379,3289
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-4">
+      <LineStyle>
+        <color>ff13ebc0</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ff13ebc0</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>4</name>
+      <description>3000 - 4000</description>
+      <styleUrl>#track-4</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,48.83379,3289
 15.06856,48.87521,3046
 15.07161,48.85043,3046
 15.07740,48.87627,3076
@@ -1509,24 +1516,26 @@
 15.05466,48.83021,3228
 15.05855,48.81691,3228
 15.06135,48.81777,3259
-</coordinates>
- </LineString>
- </Placemark><Style id="track-5">
- <LineStyle>
- <color>ff13eb5d</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ff13eb5d</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>5</name>
- <description>4000 - 5000</description>
- <styleUrl>#track-5</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,48.78011,4020
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-5">
+      <LineStyle>
+        <color>ff13eb5d</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ff13eb5d</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>5</name>
+      <description>4000 - 5000</description>
+      <styleUrl>#track-5</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,48.78011,4020
 15.06494,48.73911,4295
 15.06857,48.79310,4020
 15.07075,48.79304,4020
@@ -1886,24 +1895,26 @@
 15.06205,48.73737,4325
 15.06258,48.74099,4538
 15.06235,48.77983,4020
-</coordinates>
- </LineString>
- </Placemark><Style id="track-6">
- <LineStyle>
- <color>ff2beb13</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ff2beb13</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>6</name>
- <description>5000 - 6000</description>
- <styleUrl>#track-6</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,48.74487,5818
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-6">
+      <LineStyle>
+        <color>ff2beb13</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ff2beb13</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>6</name>
+      <description>5000 - 6000</description>
+      <styleUrl>#track-6</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,48.74487,5818
 15.06508,48.74424,5879
 15.08176,49.04046,5368
 15.06419,48.71053,0
@@ -2263,24 +2274,26 @@
 15.06135,48.74626,5726
 15.06419,48.71053,0
 15.06419,48.71053,0
-</coordinates>
- </LineString>
- </Placemark><Style id="track-7">
- <LineStyle>
- <color>ff8eeb13</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ff8eeb13</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>7</name>
- <description>6000 - 7000</description>
- <styleUrl>#track-7</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,48.92289,6701
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-7">
+      <LineStyle>
+        <color>ff8eeb13</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ff8eeb13</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>7</name>
+      <description>6000 - 7000</description>
+      <styleUrl>#track-7</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,48.92289,6701
 15.08438,49.46248,6526
 15.10448,49.46051,6541
 15.11848,49.38488,6869
@@ -2640,24 +2653,26 @@
 15.04687,48.92762,6701
 15.03522,49.25206,6998
 15.05089,49.20835,6975
-</coordinates>
- </LineString>
- </Placemark><Style id="track-8">
- <LineStyle>
- <color>ffebe613</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ffebe613</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>8</name>
- <description>7000 - 8000</description>
- <styleUrl>#track-8</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,49.46206,7272
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-8">
+      <LineStyle>
+        <color>ffebe613</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ffebe613</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>8</name>
+      <description>7000 - 8000</description>
+      <styleUrl>#track-8</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,49.46206,7272
 15.08441,49.46365,7371
 15.11709,49.69053,7059
 15.12427,49.45581,7661
@@ -3017,24 +3032,26 @@
 15.00801,49.40804,7615
 15.03305,49.29213,7958
 15.04810,49.31146,7737
-</coordinates>
- </LineString>
- </Placemark><Style id="track-9">
- <LineStyle>
- <color>ffeb8413</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ffeb8413</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>9</name>
- <description>8000 - 9000</description>
- <styleUrl>#track-9</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,49.34635,8826
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-9">
+      <LineStyle>
+        <color>ffeb8413</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ffeb8413</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>9</name>
+      <description>8000 - 9000</description>
+      <styleUrl>#track-9</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,49.34635,8826
 15.08254,49.39479,8019
 15.10450,49.46078,8293
 15.12428,49.45589,8331
@@ -3394,24 +3411,26 @@
 15.00522,49.44216,8529
 15.02763,49.39187,8529
 15.04744,49.33582,8833
-</coordinates>
- </LineString>
- </Placemark><Style id="track-10">
- <LineStyle>
- <color>ffeb2113</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ffeb2113</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>10</name>
- <description>9000 - 10000</description>
- <styleUrl>#track-10</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,49.54414,9747
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-10">
+      <LineStyle>
+        <color>ffeb2113</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ffeb2113</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>10</name>
+      <description>9000 - 10000</description>
+      <styleUrl>#track-10</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,49.54414,9747
 15.08996,49.66627,9466
 15.11513,49.65504,9138
 15.13458,49.58141,9831
@@ -3771,24 +3790,26 @@
 14.99475,49.56983,9747
 15.02734,49.39735,9443
 15.04147,49.55480,9747
-</coordinates>
- </LineString>
- </Placemark><Style id="track-11">
- <LineStyle>
- <color>ffeb1367</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ffeb1367</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>11</name>
- <description>10000 - 11000</description>
- <styleUrl>#track-11</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,49.61760,10958
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-11">
+      <LineStyle>
+        <color>ffeb1367</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ffeb1367</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>11</name>
+      <description>10000 - 11000</description>
+      <styleUrl>#track-11</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,49.61760,10958
 15.09328,49.78672,10958
 15.12222,49.78353,10958
 15.13657,49.60556,10973
@@ -4148,24 +4169,26 @@
 14.98909,49.63860,10973
 15.01434,49.63500,10966
 15.04019,49.60163,10958
-</coordinates>
- </LineString>
- </Placemark><Style id="track-12">
- <LineStyle>
- <color>ffeb13ca</color>
- <width>2</width>
- </LineStyle>
- <PolyStyle>
- <color>ffeb13ca</color>
- </PolyStyle>
- </Style>
- <Placemark>
- <name>12</name>
- <description>11000 - 12000</description>
- <styleUrl>#track-12</styleUrl>
- <LineString>
- <altitudeMode>absolute</altitudeMode>
- <coordinates>15.06419,49.65392,11583
+        </coordinates>
+      </LineString>
+    </Placemark>
+    <Style id="track-12">
+      <LineStyle>
+        <color>ffeb13ca</color>
+        <width>2</width>
+      </LineStyle>
+      <PolyStyle>
+         <color>ffeb13ca</color>
+      </PolyStyle>
+    </Style>
+    <Placemark>
+      <name>12</name>
+      <description>11000 - 12000</description>
+      <styleUrl>#track-12</styleUrl>
+      <LineString>
+        <altitudeMode>absolute</altitudeMode>
+        <coordinates>
+15.06419,49.65392,11583
 15.08787,49.58995,11583
 15.12060,49.75432,11567
 15.14095,49.65871,11255
@@ -4525,7 +4548,8 @@
 14.98420,49.69776,11583
 15.01090,49.69754,11583
 15.03832,49.66977,11575
-</coordinates>
- </LineString>
- </Placemark></Document>
- </kml>
+        </coordinates>
+      </LineString>
+    </Placemark>
+</Document>
+</kml>
